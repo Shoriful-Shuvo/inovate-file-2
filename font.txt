@@ -1,0 +1,10 @@
+ font-family: "Open Sans", sans-serif;
+    font-family: "Nunito", sans-serif;
+
+
+    padding: 30px 20px;
+    width: 80%;
+    background: rgba(132, 84, 245, 0.15);
+    border: none;
+    border-radius: 20px;
+    
